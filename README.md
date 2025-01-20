@@ -110,7 +110,7 @@ movie-review-sentiment-analyzer/
 
 Key Components
 
-app.py
+interface.py
 
 The main Streamlit app that:
 
